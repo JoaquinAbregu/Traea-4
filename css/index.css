@@ -1,0 +1,42 @@
+
+
+#imagen{
+    background-image: url('https://th.bing.com/th/id/R.5df638d6d7059c29cd1a7b2bc960836c?rik=NeRI2KsSZA4SzA&pid=ImgRaw&r=0');
+    display: flex;
+    background-position: center;
+    padding: 40px;
+    background-size: cover;
+}
+
+ul{
+    background: rgb(34,46,80);
+    text-decoration: none;
+    list-style-type: none;
+    text-decoration-line: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pie{
+    background: rgb(3,71,50);
+    background-size: ;
+}
+
+#textoFooter{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    /* Tamaño de letra */
+    font-size: 30px;
+}
+#carusel{
+    padding: 40px;
+    margin: 50px;
+}
+
+#titIma{
+    color: red;
+}

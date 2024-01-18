@@ -1,0 +1,24 @@
+body{
+    background-image: url('https://th.bing.com/th/id/R.978ce909c59e850c7e857184e81d9a0b?rik=5NRrNcpO6%2ffprQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-bfOa6banQLc%2fWMDnVth-MDI%2fAAAAAAAAD9s%2frimfxKDqAqQZfGAMCkp-jC2ouytz0CcqgCK4B%2fs1600%2fcanchas-de-futbol-13.jpg&ehk=y30%2f8%2f62WsoVYeHwYfSb2tzFan1WFD%2bdroIioxHiYFY%3d&risl=&pid=ImgRaw&r=0');
+}
+
+#titForm{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#emeil{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(155,34,38);
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 2px;
+}
+

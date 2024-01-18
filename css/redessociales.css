@@ -1,0 +1,42 @@
+
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+h2{
+    color: rgb(231,29,54);
+    text-align: right center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: solid 2px;
+}
+body{
+    background: rgb(27,153,139);
+}
+
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#obj{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 2px;
+}
+
+https://th.bing.com/th/id/R.95fced771092f24f009034948bf36611?rik=esyQNDvW8oXO8Q&riu=http%3a%2f%2fwww.construsport.com.br%2freforma-de-quadras%2freforma-de-quadras-15.jpg&ehk=P0vvMdOm3L87LTpuhkWYbRxKbh%2bJu8uHt5kr%2f7bS%2bRQ%3d&risl=&pid=ImgRaw&r=0
+.https://th.bing.com/th?id=OIP.1eyG-8idlBzQTmStU1Y_2wHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2.
