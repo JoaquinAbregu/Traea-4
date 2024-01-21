@@ -1,0 +1,24 @@
+*{
+    margin: 1;
+    padding: 1;
+  }
+  body {
+    background: green;
+  }
+  div{
+    border: solid 1px black;
+    width: 550px;
+    padding: 35px;
+    margin: 40px;
+    text-align: center;
+  }
+  button{
+    padding: 15px;
+    margin: 10px;
+  }
+  h3,h2{
+    margin: 15px;
+  }
+  section{
+    flex-wrap: wrap;
+  }
