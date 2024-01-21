@@ -20,23 +20,21 @@ ul{
     align-items: center;
 }
 
-.pie{
-    background: rgb(3,71,50);
-    background-size: ;
-}
-
-#textoFooter{
-    text-align: center;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: red;
-    /* Tamaño de letra */
-    font-size: 30px;
-}
-#carusel{
-    padding: 40px;
-    margin: 50px;
-}
 
 #titIma{
     color: red;
+}
+a{
+    text-decoration: none;
+}
+
+#chau{
+    background: rgb(27,153,139);
+}
+#hola{
+    color: red;
+}
+
+p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
